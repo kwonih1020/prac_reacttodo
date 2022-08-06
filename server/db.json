@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "content": "json-server를 배워봅시다."
+    },
+    {
+      "id": 2,
+      "title": "json-server2",
+      "content": "json-server를 배워봅시다2."
+    }
+  ]
+}
